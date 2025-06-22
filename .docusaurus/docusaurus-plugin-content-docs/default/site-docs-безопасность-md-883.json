@@ -1,0 +1,27 @@
+{
+  "id": "безопасность",
+  "title": "Безопасность",
+  "description": "Инструкции по безопасному использованию дронов.",
+  "source": "@site/docs/безопасность.md",
+  "sourceDirName": ".",
+  "slug": "/безопасность",
+  "permalink": "/coptra-docs/безопасность",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/безопасность.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Документация Коптра",
+    "permalink": "/coptra-docs/"
+  },
+  "next": {
+    "title": "Коптра Орлёнок",
+    "permalink": "/coptra-docs/коптра-орлёнок"
+  }
+}

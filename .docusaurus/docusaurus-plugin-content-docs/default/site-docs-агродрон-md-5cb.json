@@ -1,0 +1,27 @@
+{
+  "id": "агродрон",
+  "title": "Агродрон",
+  "description": "Сельскохозяйственный дрон для мониторинга и обработки посевов.",
+  "source": "@site/docs/агродрон.md",
+  "sourceDirName": ".",
+  "slug": "/агродрон",
+  "permalink": "/coptra-docs/агродрон",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/агродрон.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Коптра Орлёнок",
+    "permalink": "/coptra-docs/коптра-орлёнок"
+  },
+  "next": {
+    "title": "FPV Racer",
+    "permalink": "/coptra-docs/fpv-racer"
+  }
+}

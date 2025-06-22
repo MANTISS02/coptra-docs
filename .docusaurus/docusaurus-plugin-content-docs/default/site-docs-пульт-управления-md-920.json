@@ -1,0 +1,27 @@
+{
+  "id": "пульт-управления",
+  "title": "Пульт управления",
+  "description": "Универсальный пульт управления для всех типов дронов.",
+  "source": "@site/docs/пульт-управления.md",
+  "sourceDirName": ".",
+  "slug": "/пульт-управления",
+  "permalink": "/coptra-docs/пульт-управления",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/пульт-управления.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cargo Max",
+    "permalink": "/coptra-docs/cargo-max"
+  },
+  "next": {
+    "title": "Система ИК навигации",
+    "permalink": "/coptra-docs/система-ик-навигации"
+  }
+}

@@ -1,0 +1,919 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "489": [
+      5741,
+      489
+    ],
+    "772": [
+      4809,
+      772
+    ],
+    "2237": [
+      2237
+    ],
+    "3776": [
+      867,
+      1869,
+      3249,
+      4813,
+      6061,
+      6932,
+      7643,
+      8401,
+      3776
+    ],
+    "4809": [
+      772,
+      4809
+    ],
+    "5741": [
+      489,
+      5741
+    ],
+    "6932": [
+      867,
+      1869,
+      3249,
+      3776,
+      4212,
+      4813,
+      7643,
+      6932
+    ],
+    "17896441": [
+      1869,
+      3776,
+      8401
+    ],
+    "31354026": [
+      9571
+    ],
+    "59362658": [
+      9325
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "01a85c17": [
+      1869,
+      8209
+    ],
+    "079394c8": [
+      6226
+    ],
+    "0801fad8": [
+      1761
+    ],
+    "0ed90c00": [
+      4332
+    ],
+    "138e0e15": [
+      4921
+    ],
+    "13d4311c": [
+      8011
+    ],
+    "1a4e3797": [
+      1869,
+      2138
+    ],
+    "1d98cab8": [
+      773
+    ],
+    "1f391b9e": [
+      1869,
+      3776,
+      6061
+    ],
+    "215c24a1": [
+      9228
+    ],
+    "22108c2a": [
+      3636
+    ],
+    "298844e1": [
+      7018
+    ],
+    "33fc5bb8": [
+      1869,
+      3776,
+      6932,
+      867
+    ],
+    "36994c47": [
+      9858
+    ],
+    "393be207": [
+      4134
+    ],
+    "40e00e8b": [
+      3099
+    ],
+    "42b8b1d6": [
+      8290
+    ],
+    "44f2813f": [
+      1497
+    ],
+    "5cbfd404": [
+      2307
+    ],
+    "5d67dd8d": [
+      8421
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "621db11d": [
+      1869,
+      6932,
+      4212
+    ],
+    "63d19d9d": [
+      8351
+    ],
+    "6875c492": [
+      1869,
+      3776,
+      6932,
+      4813
+    ],
+    "73664a40": [
+      1972
+    ],
+    "7661071f": [
+      8737
+    ],
+    "814f3328": [
+      7472
+    ],
+    "8717b14a": [
+      3694
+    ],
+    "883764ae": [
+      4673
+    ],
+    "9206e916": [
+      551
+    ],
+    "925370cc": [
+      8097
+    ],
+    "925b3f96": [
+      8609
+    ],
+    "99d13081": [
+      1360
+    ],
+    "9e4087bc": [
+      2711
+    ],
+    "a131e4d8": [
+      8606
+    ],
+    "a564181a": [
+      4610
+    ],
+    "a6aa9e1f": [
+      1869,
+      3776,
+      6932,
+      7643
+    ],
+    "a7456010": [
+      1235
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "acecf23e": [
+      1903
+    ],
+    "b1db3ce7": [
+      4476
+    ],
+    "b2ff206e": [
+      3062
+    ],
+    "beb8974d": [
+      7438
+    ],
+    "bfc49675": [
+      3031
+    ],
+    "c09d4957": [
+      2348
+    ],
+    "c2b88e55": [
+      1513
+    ],
+    "c377a04b": [
+      3361
+    ],
+    "ccc49370": [
+      1869,
+      3776,
+      6932,
+      3249
+    ],
+    "d9f32620": [
+      5557
+    ],
+    "e273c56f": [
+      9328
+    ],
+    "e9ff536b": [
+      2309
+    ],
+    "ee24b232": [
+      8396
+    ],
+    "f2779ac7": [
+      6721
+    ],
+    "f4c97935": [
+      5549
+    ],
+    "f4f34a3a": [
+      3637
+    ],
+    "f9d92bc6": [
+      4722
+    ],
+    "styles": [
+      867,
+      2138,
+      3249,
+      3776,
+      4212,
+      4813,
+      5354,
+      6061,
+      6932,
+      7643,
+      8209,
+      8401,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "489": {
+      "js": [
+        {
+          "file": "assets/js/489.da1fb833.js",
+          "hash": "218abeb24b9bf1a2",
+          "publicPath": "/coptra-docs/assets/js/489.da1fb833.js"
+        }
+      ]
+    },
+    "551": {
+      "js": [
+        {
+          "file": "assets/js/9206e916.e9da3d53.js",
+          "hash": "0dae7b7839ed8308",
+          "publicPath": "/coptra-docs/assets/js/9206e916.e9da3d53.js"
+        }
+      ]
+    },
+    "772": {
+      "js": [
+        {
+          "file": "assets/js/772.bfb01ed0.js",
+          "hash": "479fd0276c71a341",
+          "publicPath": "/coptra-docs/assets/js/772.bfb01ed0.js"
+        }
+      ]
+    },
+    "773": {
+      "js": [
+        {
+          "file": "assets/js/1d98cab8.1621702f.js",
+          "hash": "3910a95d6e18a96b",
+          "publicPath": "/coptra-docs/assets/js/1d98cab8.1621702f.js"
+        }
+      ]
+    },
+    "867": {
+      "js": [
+        {
+          "file": "assets/js/33fc5bb8.b2aaa191.js",
+          "hash": "65354689f5252bbe",
+          "publicPath": "/coptra-docs/assets/js/33fc5bb8.b2aaa191.js"
+        }
+      ]
+    },
+    "1235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.17db7880.js",
+          "hash": "0a8e677b642288c3",
+          "publicPath": "/coptra-docs/assets/js/a7456010.17db7880.js"
+        }
+      ]
+    },
+    "1360": {
+      "js": [
+        {
+          "file": "assets/js/99d13081.cfb187a4.js",
+          "hash": "ae155e29011016c7",
+          "publicPath": "/coptra-docs/assets/js/99d13081.cfb187a4.js"
+        }
+      ]
+    },
+    "1497": {
+      "js": [
+        {
+          "file": "assets/js/44f2813f.df80b0ad.js",
+          "hash": "d9006d19a2ae659b",
+          "publicPath": "/coptra-docs/assets/js/44f2813f.df80b0ad.js"
+        }
+      ]
+    },
+    "1513": {
+      "js": [
+        {
+          "file": "assets/js/c2b88e55.9e49a2c2.js",
+          "hash": "04f7555cb009fd99",
+          "publicPath": "/coptra-docs/assets/js/c2b88e55.9e49a2c2.js"
+        }
+      ]
+    },
+    "1761": {
+      "js": [
+        {
+          "file": "assets/js/0801fad8.da5c2652.js",
+          "hash": "cd09ebaef7f9abd2",
+          "publicPath": "/coptra-docs/assets/js/0801fad8.da5c2652.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.9b42683f.css",
+          "hash": "e650f1a130a88b0e",
+          "publicPath": "/coptra-docs/assets/css/styles.9b42683f.css"
+        }
+      ]
+    },
+    "1903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.d4809eb7.js",
+          "hash": "5b88cd4a18ff1c6b",
+          "publicPath": "/coptra-docs/assets/js/acecf23e.d4809eb7.js"
+        }
+      ]
+    },
+    "1972": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.a8608269.js",
+          "hash": "ba947b740dbc5cb7",
+          "publicPath": "/coptra-docs/assets/js/73664a40.a8608269.js"
+        }
+      ]
+    },
+    "2138": {
+      "js": [
+        {
+          "file": "assets/js/1a4e3797.ee79ae79.js",
+          "hash": "a5c7f3db2ae29613",
+          "publicPath": "/coptra-docs/assets/js/1a4e3797.ee79ae79.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.8efed60b.js",
+          "hash": "1e71c1960eb77323",
+          "publicPath": "/coptra-docs/assets/js/2237.8efed60b.js"
+        }
+      ]
+    },
+    "2307": {
+      "js": [
+        {
+          "file": "assets/js/5cbfd404.fd454b9b.js",
+          "hash": "4c3ad78ea3820eec",
+          "publicPath": "/coptra-docs/assets/js/5cbfd404.fd454b9b.js"
+        }
+      ]
+    },
+    "2309": {
+      "js": [
+        {
+          "file": "assets/js/e9ff536b.440e3132.js",
+          "hash": "852d3323ef67d005",
+          "publicPath": "/coptra-docs/assets/js/e9ff536b.440e3132.js"
+        }
+      ]
+    },
+    "2348": {
+      "js": [
+        {
+          "file": "assets/js/c09d4957.a204e366.js",
+          "hash": "199746c6a752999c",
+          "publicPath": "/coptra-docs/assets/js/c09d4957.a204e366.js"
+        }
+      ]
+    },
+    "2711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.e69ba1d6.js",
+          "hash": "4bdf19163821ced8",
+          "publicPath": "/coptra-docs/assets/js/9e4087bc.e69ba1d6.js"
+        }
+      ]
+    },
+    "3031": {
+      "js": [
+        {
+          "file": "assets/js/bfc49675.807a1c36.js",
+          "hash": "b06965e8d5dbfefa",
+          "publicPath": "/coptra-docs/assets/js/bfc49675.807a1c36.js"
+        }
+      ]
+    },
+    "3062": {
+      "js": [
+        {
+          "file": "assets/js/b2ff206e.ee9447d7.js",
+          "hash": "c7f8abf9a2ed9e0e",
+          "publicPath": "/coptra-docs/assets/js/b2ff206e.ee9447d7.js"
+        }
+      ]
+    },
+    "3099": {
+      "js": [
+        {
+          "file": "assets/js/40e00e8b.709230c5.js",
+          "hash": "36c4efbf7cd20ad4",
+          "publicPath": "/coptra-docs/assets/js/40e00e8b.709230c5.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.0a15b889.js",
+          "hash": "626eb3f39237cedf",
+          "publicPath": "/coptra-docs/assets/js/ccc49370.0a15b889.js"
+        }
+      ]
+    },
+    "3361": {
+      "js": [
+        {
+          "file": "assets/js/c377a04b.8b04fb00.js",
+          "hash": "e0a1959999716723",
+          "publicPath": "/coptra-docs/assets/js/c377a04b.8b04fb00.js"
+        }
+      ]
+    },
+    "3636": {
+      "js": [
+        {
+          "file": "assets/js/22108c2a.01535563.js",
+          "hash": "c55927a145384db4",
+          "publicPath": "/coptra-docs/assets/js/22108c2a.01535563.js"
+        }
+      ]
+    },
+    "3637": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.0b3cfd76.js",
+          "hash": "24ae4c28758044ff",
+          "publicPath": "/coptra-docs/assets/js/f4f34a3a.0b3cfd76.js"
+        }
+      ]
+    },
+    "3694": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.610b253e.js",
+          "hash": "60bbb3371f2162af",
+          "publicPath": "/coptra-docs/assets/js/8717b14a.610b253e.js"
+        }
+      ]
+    },
+    "3776": {
+      "js": [
+        {
+          "file": "assets/js/3776.c584f679.js",
+          "hash": "d3f8621945bc48cc",
+          "publicPath": "/coptra-docs/assets/js/3776.c584f679.js"
+        }
+      ]
+    },
+    "4134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.3d4d814f.js",
+          "hash": "52001830bfe0daa3",
+          "publicPath": "/coptra-docs/assets/js/393be207.3d4d814f.js"
+        }
+      ]
+    },
+    "4212": {
+      "js": [
+        {
+          "file": "assets/js/621db11d.f0799ab6.js",
+          "hash": "9415d186838e2320",
+          "publicPath": "/coptra-docs/assets/js/621db11d.f0799ab6.js"
+        }
+      ]
+    },
+    "4332": {
+      "js": [
+        {
+          "file": "assets/js/0ed90c00.ae210739.js",
+          "hash": "0be75814359db57d",
+          "publicPath": "/coptra-docs/assets/js/0ed90c00.ae210739.js"
+        }
+      ]
+    },
+    "4476": {
+      "js": [
+        {
+          "file": "assets/js/b1db3ce7.3ecb9762.js",
+          "hash": "a35c0fa544ffdd8d",
+          "publicPath": "/coptra-docs/assets/js/b1db3ce7.3ecb9762.js"
+        }
+      ]
+    },
+    "4610": {
+      "js": [
+        {
+          "file": "assets/js/a564181a.1dc4682a.js",
+          "hash": "9a625423c5df8ad4",
+          "publicPath": "/coptra-docs/assets/js/a564181a.1dc4682a.js"
+        }
+      ]
+    },
+    "4673": {
+      "js": [
+        {
+          "file": "assets/js/883764ae.05ca6f58.js",
+          "hash": "7f3d388ec87ac777",
+          "publicPath": "/coptra-docs/assets/js/883764ae.05ca6f58.js"
+        }
+      ]
+    },
+    "4722": {
+      "js": [
+        {
+          "file": "assets/js/f9d92bc6.c194cc2e.js",
+          "hash": "b459594877632f5e",
+          "publicPath": "/coptra-docs/assets/js/f9d92bc6.c194cc2e.js"
+        }
+      ]
+    },
+    "4809": {
+      "js": [
+        {
+          "file": "assets/js/4809.9b4e8494.js",
+          "hash": "cf898396611dbe95",
+          "publicPath": "/coptra-docs/assets/js/4809.9b4e8494.js"
+        }
+      ]
+    },
+    "4813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.510437b1.js",
+          "hash": "be67d7cdf27afcdb",
+          "publicPath": "/coptra-docs/assets/js/6875c492.510437b1.js"
+        }
+      ]
+    },
+    "4921": {
+      "js": [
+        {
+          "file": "assets/js/138e0e15.1bd34c71.js",
+          "hash": "93ab170f97e5966e",
+          "publicPath": "/coptra-docs/assets/js/138e0e15.1bd34c71.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.0a8fac21.js",
+          "hash": "6097b420b292ac2e",
+          "publicPath": "/coptra-docs/assets/js/runtime~main.0a8fac21.js"
+        }
+      ]
+    },
+    "5549": {
+      "js": [
+        {
+          "file": "assets/js/f4c97935.a60214d6.js",
+          "hash": "fedbd42ccb2ae4ea",
+          "publicPath": "/coptra-docs/assets/js/f4c97935.a60214d6.js"
+        }
+      ]
+    },
+    "5557": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.d9f0ad22.js",
+          "hash": "accc19a0b82176dd",
+          "publicPath": "/coptra-docs/assets/js/d9f32620.d9f0ad22.js"
+        }
+      ]
+    },
+    "5741": {
+      "js": [
+        {
+          "file": "assets/js/5741.d603b95c.js",
+          "hash": "182ed4c145524dae",
+          "publicPath": "/coptra-docs/assets/js/5741.d603b95c.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.f84bdc1b.js",
+          "hash": "27c9e398532a5f44",
+          "publicPath": "/coptra-docs/assets/js/aba21aa0.f84bdc1b.js"
+        }
+      ]
+    },
+    "6061": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.26ddb702.js",
+          "hash": "46783223050c41c2",
+          "publicPath": "/coptra-docs/assets/js/1f391b9e.26ddb702.js"
+        }
+      ]
+    },
+    "6226": {
+      "js": [
+        {
+          "file": "assets/js/079394c8.1d9edeb3.js",
+          "hash": "dd3742933cb58c90",
+          "publicPath": "/coptra-docs/assets/js/079394c8.1d9edeb3.js"
+        }
+      ]
+    },
+    "6721": {
+      "js": [
+        {
+          "file": "assets/js/f2779ac7.cc627d97.js",
+          "hash": "fc2ef47c2263124d",
+          "publicPath": "/coptra-docs/assets/js/f2779ac7.cc627d97.js"
+        }
+      ]
+    },
+    "6932": {
+      "js": [
+        {
+          "file": "assets/js/6932.426b2733.js",
+          "hash": "788e8be11020af23",
+          "publicPath": "/coptra-docs/assets/js/6932.426b2733.js"
+        }
+      ]
+    },
+    "7018": {
+      "js": [
+        {
+          "file": "assets/js/298844e1.d74ae45c.js",
+          "hash": "36f8eebaf94f7709",
+          "publicPath": "/coptra-docs/assets/js/298844e1.d74ae45c.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.9594e5f5.js",
+          "hash": "90cf35da092b619d",
+          "publicPath": "/coptra-docs/assets/js/a7bd4aaa.9594e5f5.js"
+        }
+      ]
+    },
+    "7438": {
+      "js": [
+        {
+          "file": "assets/js/beb8974d.b2808269.js",
+          "hash": "30e545be4b9fb3c0",
+          "publicPath": "/coptra-docs/assets/js/beb8974d.b2808269.js"
+        }
+      ]
+    },
+    "7472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.5f5ce64a.js",
+          "hash": "20976505420a8e56",
+          "publicPath": "/coptra-docs/assets/js/814f3328.5f5ce64a.js"
+        }
+      ]
+    },
+    "7643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.d97ebcb0.js",
+          "hash": "b13ab62f64036a56",
+          "publicPath": "/coptra-docs/assets/js/a6aa9e1f.d97ebcb0.js"
+        }
+      ]
+    },
+    "8011": {
+      "js": [
+        {
+          "file": "assets/js/13d4311c.271ac3db.js",
+          "hash": "f4cc10c79f32917c",
+          "publicPath": "/coptra-docs/assets/js/13d4311c.271ac3db.js"
+        }
+      ]
+    },
+    "8097": {
+      "js": [
+        {
+          "file": "assets/js/925370cc.4d1a9412.js",
+          "hash": "2e30500bb8fedb3b",
+          "publicPath": "/coptra-docs/assets/js/925370cc.4d1a9412.js"
+        }
+      ]
+    },
+    "8209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.f200fbce.js",
+          "hash": "de7432c19971ffe5",
+          "publicPath": "/coptra-docs/assets/js/01a85c17.f200fbce.js"
+        }
+      ]
+    },
+    "8290": {
+      "js": [
+        {
+          "file": "assets/js/42b8b1d6.e80a9070.js",
+          "hash": "8e05d1fb3de968f2",
+          "publicPath": "/coptra-docs/assets/js/42b8b1d6.e80a9070.js"
+        }
+      ]
+    },
+    "8351": {
+      "js": [
+        {
+          "file": "assets/js/63d19d9d.37fc2c16.js",
+          "hash": "800949c1f991c22b",
+          "publicPath": "/coptra-docs/assets/js/63d19d9d.37fc2c16.js"
+        }
+      ]
+    },
+    "8396": {
+      "js": [
+        {
+          "file": "assets/js/ee24b232.6bb835c8.js",
+          "hash": "32e1b809d32cf0ab",
+          "publicPath": "/coptra-docs/assets/js/ee24b232.6bb835c8.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.ef28590a.js",
+          "hash": "2e57f38b7b561e90",
+          "publicPath": "/coptra-docs/assets/js/17896441.ef28590a.js"
+        }
+      ]
+    },
+    "8421": {
+      "js": [
+        {
+          "file": "assets/js/5d67dd8d.36d1beb1.js",
+          "hash": "bfb8f5cda562d2f5",
+          "publicPath": "/coptra-docs/assets/js/5d67dd8d.36d1beb1.js"
+        }
+      ]
+    },
+    "8606": {
+      "js": [
+        {
+          "file": "assets/js/a131e4d8.f35d1fae.js",
+          "hash": "63c2b996dc3cd682",
+          "publicPath": "/coptra-docs/assets/js/a131e4d8.f35d1fae.js"
+        }
+      ]
+    },
+    "8609": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.9823a9d2.js",
+          "hash": "70d777fa98a9866b",
+          "publicPath": "/coptra-docs/assets/js/925b3f96.9823a9d2.js"
+        }
+      ]
+    },
+    "8737": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.bd27bb09.js",
+          "hash": "23e15a2a129edd38",
+          "publicPath": "/coptra-docs/assets/js/7661071f.bd27bb09.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.b5e5a888.js",
+          "hash": "22f981a9f06118a4",
+          "publicPath": "/coptra-docs/assets/js/main.b5e5a888.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.561b18be.js",
+          "hash": "b0eb83d9f244b0a0",
+          "publicPath": "/coptra-docs/assets/js/a94703ab.561b18be.js"
+        }
+      ]
+    },
+    "9228": {
+      "js": [
+        {
+          "file": "assets/js/215c24a1.4c0e94b5.js",
+          "hash": "badf87be1997b328",
+          "publicPath": "/coptra-docs/assets/js/215c24a1.4c0e94b5.js"
+        }
+      ]
+    },
+    "9325": {
+      "js": [
+        {
+          "file": "assets/js/59362658.d14fffe6.js",
+          "hash": "10cb0f2a0d32af5a",
+          "publicPath": "/coptra-docs/assets/js/59362658.d14fffe6.js"
+        }
+      ]
+    },
+    "9328": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.d42f72fe.js",
+          "hash": "448e3f0247e320b9",
+          "publicPath": "/coptra-docs/assets/js/e273c56f.d42f72fe.js"
+        }
+      ]
+    },
+    "9571": {
+      "js": [
+        {
+          "file": "assets/js/31354026.8104733c.js",
+          "hash": "323890d7a926328b",
+          "publicPath": "/coptra-docs/assets/js/31354026.8104733c.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.42b65a89.js",
+          "hash": "3f434a31f7ba60c1",
+          "publicPath": "/coptra-docs/assets/js/5e95c892.42b65a89.js"
+        }
+      ]
+    },
+    "9858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.36d78d84.js",
+          "hash": "2ad0938ad10d28de",
+          "publicPath": "/coptra-docs/assets/js/36994c47.36d78d84.js"
+        }
+      ]
+    }
+  }
+}

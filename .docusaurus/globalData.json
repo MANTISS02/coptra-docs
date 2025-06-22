@@ -1,0 +1,138 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/coptra-docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/coptra-docs/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "агродрон",
+              "path": "/coptra-docs/агродрон",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "база-знаний",
+              "path": "/coptra-docs/база-знаний",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "безопасность",
+              "path": "/coptra-docs/безопасность",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "загрузки",
+              "path": "/coptra-docs/загрузки",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "коптра-орлёнок",
+              "path": "/coptra-docs/коптра-орлёнок",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "методики-и-кейсы",
+              "path": "/coptra-docs/методики-и-кейсы",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "плата-подключения-дополнительных-модулей",
+              "path": "/coptra-docs/плата-подключения-дополнительных-модулей",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "пульт-управления",
+              "path": "/coptra-docs/пульт-управления",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "система-ик-навигации",
+              "path": "/coptra-docs/система-ик-навигации",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "система-оптической-навигации",
+              "path": "/coptra-docs/система-оптической-навигации",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "система-уз-навигации",
+              "path": "/coptra-docs/система-уз-навигации",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cargo-light",
+              "path": "/coptra-docs/cargo-light",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cargo-max",
+              "path": "/coptra-docs/cargo-max",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cargo-pro",
+              "path": "/coptra-docs/cargo-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "coptra-drone-control-system",
+              "path": "/coptra-docs/coptra-drone-control-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "coptra-sim",
+              "path": "/coptra-docs/coptra-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fpv-freestyle",
+              "path": "/coptra-docs/fpv-freestyle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fpv-racer",
+              "path": "/coptra-docs/fpv-racer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/coptra-docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lua",
+              "path": "/coptra-docs/lua",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python",
+              "path": "/coptra-docs/python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trik-studio",
+              "path": "/coptra-docs/trik-studio",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/coptra-docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
