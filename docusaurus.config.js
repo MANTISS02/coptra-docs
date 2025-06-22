@@ -24,6 +24,8 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/coptra-docs/',
+  // Ensure trailing slashes are used consistently
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -212,13 +214,13 @@ const config = {
                 html: `
                   <div class="social-icons">
                     <a href="#" target="_blank" rel="noopener noreferrer" aria-label="VK" class="social-icon">
-                      <img src="/img/vk.svg" alt="VK" width="16" height="16" />
+                      <img src="/coptra-docs/img/vk.svg" alt="VK" width="16" height="16" />
                     </a>
                     <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Telegram" class="social-icon">
-                      <img src="/img/telegram.svg" alt="Telegram" width="16" height="16" />
+                      <img src="/coptra-docs/img/telegram.svg" alt="Telegram" width="16" height="16" />
                     </a>
                     <a href="#" target="_blank" rel="noopener noreferrer" aria-label="YouTube" class="social-icon">
-                      <img src="/img/youtube.svg" alt="YouTube" width="16" height="16" />
+                      <img src="/coptra-docs/img/youtube.svg" alt="YouTube" width="16" height="16" />
                     </a>
                   </div>
                 `,
