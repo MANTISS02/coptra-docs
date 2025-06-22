@@ -12,7 +12,8 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "dev-with-search": "npm run build && npm run serve"
+    "dev-with-search": "npm run build && npm run serve",
+    "deploy-gh": "gh-pages -d build"
   },
   "dependencies": {
     "@docusaurus/core": "3.8.1",
