@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcoptra_docs=self.webpackChunkcoptra_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/coptra-docs/blog","blogTitle":"Blog","authorsListPath":"/coptra-docs/blog/authors"}')}}]);
