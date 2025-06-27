@@ -105,12 +105,15 @@ const config = {
         logo: {
           alt: 'Логотип Коптра',
           src: 'img/logo.png',
+          href: 'https://coptra.x10.mx',
+          target: '_self',
         },
         items: [
           {
-            to: '/',
+            href: 'https://coptra.x10.mx',
             label: 'Главная',
             position: 'left',
+            target: '_self',
             activeBaseRegex: '^/$',
           },
           {
@@ -120,19 +123,22 @@ const config = {
             label: 'Документация',
           },
           {
-            to: '#',
+            href: 'https://coptra.x10.mx/products.php',
             label: 'Продукты',
             position: 'left',
+            target: '_self',
           },
           {
-            to: '/blog',
+            href: 'https://coptra.x10.mx/blog.php',
             label: 'Блог',
             position: 'left',
+            target: '_self',
           },
           {
-            href: '#',
+            href: 'https://coptra.x10.mx/contacts.php',
             label: 'Контакты',
             position: 'left',
+            target: '_self',
           },
           {
             type: 'html',

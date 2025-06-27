@@ -265,3 +265,21 @@
 [data-theme='dark'] .navbar__link--active[href='/']:hover {
   color: var(--ifm-navbar-link-hover-color);
 }
+
+.iconExternalLink {
+  display: none !important;
+}
+
+svg[class*="iconExternalLink"],
+a[href^="http"] svg,
+a[target="_blank"] svg,
+a[href^="https"] svg,
+.navbar__items a svg,
+.navbar__link svg {
+  display: none !important;
+}
+
+[data-theme='light'] .iconExternalLink,
+[data-theme='dark'] .iconExternalLink {
+  display: none !important;
+}
