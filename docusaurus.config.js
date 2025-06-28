@@ -117,16 +117,16 @@ const config = {
             activeBaseRegex: '^/$',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Документация',
-          },
-          {
             href: 'https://coptra.x10.mx/products.php',
             label: 'Продукты',
             position: 'left',
             target: '_self',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Документация',
           },
           {
             href: 'https://coptra.x10.mx/blog.php',
@@ -155,11 +155,13 @@ const config = {
             items: [
               {
                 label: 'Блог',
-                to: '/blog',
+                href: 'https://coptra.x10.mx/blog.php',
+                target: '_self',
               },
               {
                 label: 'Контакты',
-                to: '#',
+                href: 'https://coptra.x10.mx/contacts.php',
+                target: '_self',
               },
               {
                 label: 'Документация',
@@ -172,23 +174,28 @@ const config = {
             items: [
               {
                 label: 'Сельское хозяйство',
-                to: '#',
+                href: 'https://coptra.x10.mx/products.php#agriculture',
+                target: '_self',
               },
               {
                 label: 'Образование',
-                to: '#',
+                href: 'https://coptra.x10.mx/products.php#educational',
+                target: '_self',
               },
               {
                 label: 'FPV Дроны',
-                to: '#',
+                href: 'https://coptra.x10.mx/products.php#fpv',
+                target: '_self',
               },
               {
                 label: 'Грузоперевозки',
-                to: '#',
+                href: 'https://coptra.x10.mx/products.php#cargo',
+                target: '_self',
               },
               {
                 label: 'Компоненты',
-                to: '#',
+                href: 'https://coptra.x10.mx/products.php#components',
+                target: '_self',
               },
             ],
           },
@@ -197,11 +204,13 @@ const config = {
             items: [
               {
                 label: 'Скачать для Windows',
-                href: '#',
+                href: 'https://coptra.x10.mx/api/configurator/download.php?version=1.1.0&platform=windows&file=Coptra-Configurator_win32_x64_1.1.0.msi',
+                target: '_self',
               },
               {
                 label: 'Скачать для Linux',
-                href: '#',
+                href: 'https://coptra.x10.mx/api/configurator/download.php?version=1.1.0&platform=linux&file=Coptra-Configurator_linux_x64_1.1.0.zip',
+                target: '_self',
               },
             ],
           },
@@ -234,7 +243,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Coptra. Все права защищены.`,
+        copyright: `© ${new Date().getFullYear()} Коптра. Все права защищены.`,
       },
       prism: {
         theme: prismThemes.github,
